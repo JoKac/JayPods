@@ -1,0 +1,16 @@
+PODS:
+  - Jaypod (0.1.0)
+
+DEPENDENCIES:
+  - Jaypod (from `../`)
+
+EXTERNAL SOURCES:
+  Jaypod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Jaypod: 70cd997885b9d4658e25604ae23058f46ce533af
+
+PODFILE CHECKSUM: d250c60da95b3a9895b7cd814a5ef13eccfc44cb
+
+COCOAPODS: 1.11.2

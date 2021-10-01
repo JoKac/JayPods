@@ -1,0 +1,6 @@
+framework module Jaypod {
+  umbrella header "Jaypod-umbrella.h"
+
+  export *
+  module * { export * }
+}
