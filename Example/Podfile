@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Jaypod_Tests' do
+  pod 'Jaypod', :path => '../'
+  
+  
+end
